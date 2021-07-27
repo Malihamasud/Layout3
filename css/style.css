@@ -1,0 +1,51 @@
+
+
+
+
+
+*{
+    margin: 0%; padding: 0%;
+}
+.h{
+background-color: aliceblue;
+text-align: center;
+height: 100px;
+}
+.n{
+background-color: aquamarine;
+
+text-align: center; height: 150px;
+}
+.m{ width: 100%;
+height: 200px;
+
+background-color: yellowgreen
+}
+.l{
+
+width: 50%;
+
+    float: left;
+}
+.s{
+background-color: cadetblue;
+text-align: center;
+height: 100px;
+}
+.a{
+background-color: cornflowerblue;
+height: 100px;
+text-align: center; 
+}
+.as{
+
+text-align: center;
+float: right
+
+ 
+}
+.f{
+background-color: blueviolet;
+height: 100px;
+text-align: center;
+}
